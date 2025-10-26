@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Behlul  
 
-<!--
-**behlulalar/behlulalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical & Electronics Engineering student at Sakarya University of Applied Sciences  
+🤖 AI & Software Developer — Computer Vision, Object Detection, and Chatbots  
+💻 Tech Stack: Python, C/C++, Node.js, OpenCV, YOLO, PyQt  
 
-Here are some ideas to get you started:
+🚀 Featured Projects  
+- TEKNOFEST RoboLig & Air Defense Systems  
+- AI-powered WhatsApp Chatbot  
+- Scalable admin-panel reservation systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning advanced AI Agents & automation tools  
+📫 Reach me at: [LinkedIn](https://linkedin.com/in/behluul) | [Portfolio](#)
+
