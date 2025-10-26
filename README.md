@@ -10,5 +10,5 @@
 - Scalable admin-panel reservation systems  
 
 🌱 Currently learning advanced AI Agents & automation tools  
-📫 Reach me at: [LinkedIn](https://linkedin.com/in/behluul) | [Portfolio](#)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/muhammed-behl%C3%BCl-alar-b7ba2b297/) | [UpWork](https://www.upwork.com/freelancers/~01ba2347ffe87e117d?mp_source=share)
 
