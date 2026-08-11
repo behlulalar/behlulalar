@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/behtech-logo.png" alt="BEHTECH — Beyond the Code" width="320" />
+</p>
+
 # 👋 Hi, I'm Behlul
 
 🎓 Electrical & Electronics Engineering student at Sakarya University of Applied Sciences
