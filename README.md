@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/behtech-logo.png" alt="BEHTECH — Beyond the Code" width="320" />
-</p>
-
 # 👋 Hi, I'm Behlul
 
 🎓 Electrical & Electronics Engineering student at Sakarya University of Applied Sciences
@@ -52,3 +48,7 @@ Git · GitHub · Linux · Arduino
 
 📫 **Let's connect:**
 [LinkedIn](https://www.linkedin.com/in/muhammed-behl%C3%BCl-alar-b7ba2b297/) · [UpWork](https://www.upwork.com/freelancers/~01ba2347ffe87e117d?mp_source=share)
+
+<p align="center">
+  <img src="assets/behtech-logo.png" alt="BEHTECH — Beyond the Code" width="320" />
+</p>
