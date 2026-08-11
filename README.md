@@ -50,5 +50,5 @@ Git · GitHub · Linux · Arduino
 [LinkedIn](https://www.linkedin.com/in/muhammed-behl%C3%BCl-alar-b7ba2b297/) · [UpWork](https://www.upwork.com/freelancers/~01ba2347ffe87e117d?mp_source=share)
 
 <p align="center">
-  <img src="assets/behtech-logo.png" alt="BEHTECH — Beyond the Code" width="480" />
+  <img src="assets/behtech-banner.png" alt="BEHTECH — Beyond the Code" width="720" />
 </p>
