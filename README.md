@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Behlul
 
-🎓 Electrical & Electronics Engineering student at Sakarya University of Applied Sciences
 
 💻 **AI & Software Developer | Founder @ BehTech**
 
